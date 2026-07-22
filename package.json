@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/ajaib-sector-heatmap/",
+  "homepage": "/https://aanjulianko.github.io/ajaib-sector-heatmap/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
