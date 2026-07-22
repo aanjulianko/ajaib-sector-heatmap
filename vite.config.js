@@ -8,5 +8,5 @@ import react from '@vitejs/plugin-react'
 // those platforms handle routing automatically.)
 export default defineConfig({
   plugins: [react()],
-  base: '/ajaib-sector-heatmap/',
+  base: '/',
 })
